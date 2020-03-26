@@ -1,24 +1,28 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.5f361e03.chunk.css",
-    "main.js": "/portfolio/static/js/main.837ebeda.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.837ebeda.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.f018af4d.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.f018af4d.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.075c0788.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.075c0788.js.map",
-    "static/js/2.664a1abf.chunk.js": "/portfolio/static/js/2.664a1abf.chunk.js",
-    "static/js/2.664a1abf.chunk.js.map": "/portfolio/static/js/2.664a1abf.chunk.js.map",
+    "static/js/2.27059739.chunk.js": "/portfolio/static/js/2.27059739.chunk.js",
+    "static/js/2.27059739.chunk.js.map": "/portfolio/static/js/2.27059739.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.9d33b91e684e75d605971c214da43f7f.js": "/portfolio/precache-manifest.9d33b91e684e75d605971c214da43f7f.js",
+    "precache-manifest.7d3470f80932a3245465e2993c727cf9.js": "/portfolio/precache-manifest.7d3470f80932a3245465e2993c727cf9.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/portfolio/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.664a1abf.chunk.js.LICENSE.txt": "/portfolio/static/js/2.664a1abf.chunk.js.LICENSE.txt",
+    "static/js/2.27059739.chunk.js.LICENSE.txt": "/portfolio/static/js/2.27059739.chunk.js.LICENSE.txt",
     "static/media/background.jpg": "/portfolio/static/media/background.21cced8e.jpg",
-    "static/media/logo.svg": "/portfolio/static/media/logo.5d5d9eef.svg"
+    "static/media/code.jpeg": "/portfolio/static/media/code.8e815d8b.jpeg",
+    "static/media/me.jpg": "/portfolio/static/media/me.e0c13755.jpg",
+    "static/media/robo.jpg": "/portfolio/static/media/robo.340e6b44.jpg",
+    "static/media/soldering.jpg": "/portfolio/static/media/soldering.e130a2df.jpg",
+    "static/media/sparks.jpg": "/portfolio/static/media/sparks.f68a1edd.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.075c0788.js",
-    "static/js/2.664a1abf.chunk.js",
+    "static/js/2.27059739.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.837ebeda.chunk.js"
+    "static/js/main.f018af4d.chunk.js"
   ]
 }
