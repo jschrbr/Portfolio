@@ -30,7 +30,10 @@ export default function SimplePaper() {
       <Paper elevation={3}>
         <Container className={classes.containerTop}>
           <Typography component="h3" variant="h3" color="inherit">
-            Contact me
+            Contact me (soon)
+          </Typography>
+          <Typography variant="subtitle1" color="secondary">
+            Contact form is for display purposes only.
           </Typography>
         </Container>
         <Container className={classes.container}>

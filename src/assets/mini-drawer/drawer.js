@@ -174,7 +174,7 @@ function Stamp() {
   return (
     <Typography variant="body2" color="inherit">
       {"Created by "}
-      <Link color="primary" href="https://jschrbr.github.io">
+      <Link color="primary" href="https://jschrbr.github.io/portfolio/">
         James Schreiber
       </Link>{" "}
       {/* {new Date().getFullYear()} */}
@@ -373,7 +373,7 @@ export default function Dashboard() {
           <IconButton
             compondnent="a"
             color="inherit"
-            href="https://github.com/jschrbr/portfolio"
+            href="https://github.com/jschrbr/portfolio/tree/master"
             target="_blank"
           >
             <GitHubIcon />
